@@ -1,5 +1,5 @@
 <h1 align="center">
-  Portfólio <img width="25px" src="https://github.com/murilostorari/Portfolio/public/logo.png"/>
+  Portfólio <img width="25px" src="https://github.com/murilostorari/Portfolio/blob/main/public/logo.png?raw=true"/>
 </h1>
 
 Meu Portfólio/Site pessoal criado utilizando React e Tailwind CSS. Nesse projeto, explorei novas tecnologias e adquiri conhecimentos valiosos ao longo do desenvolvimento.
