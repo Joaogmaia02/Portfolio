@@ -35,9 +35,9 @@ export const SkillsData = [
 
 export const ProjectsData = [
     {
-        Title: "Portfólio com React e Tailwind CSS",
-        Description: "Meu Portfólio/Site pessoal criado utilizando React e Tailwind CSS. Nesse projeto, explorei algumas novas tecnologias, e adquiri conhecimentos valiosos ao longo do desenvolvimento.",
-        Image: "./img/projectimgs/PortfolioReact.png",
+        Title: "Portfólio com React e Tailwind",
+        Description: "Meu Portfólio/Site pessoal criado utilizando React e Tailwind CSS. Nesse projeto, explorei novas tecnologias e adquiri conhecimentos valiosos ao longo do desenvolvimento.",
+        Image: "./img/projectimgs/Portfolio.png",
         Techs: [
             {
                 TechName: "React"
@@ -46,11 +46,11 @@ export const ProjectsData = [
                 TechName: "Tailwind CSS"
             },
             {
-                TechName: "Lucide-React (ícones)"
+                TechName: "Hero icons"
             },
         ],
-        Link: "https://github.com/murilostorari/Portfolio-com-react",
-        DemoLink: "https://github.com/murilostorari/Portfolio-com-react",
+        Link: "https://github.com/murilostorari/Portfolio",
+        DemoLink: "https://github.com/murilostorari/Portfolio",
         Demo: true
     },
     {
@@ -90,29 +90,7 @@ export const ProjectsData = [
         Link: "https://github.com/murilostorari/Sistema-de-gerenciamento-de-oficina",
         DemoLink: "",
         Demo: false
-    },
-    {
-        Title: "Gerador de imagens aleatórias",
-        Description: "Um gerador de imagens aleatórias, utilizando API do Unsplash Random para gerar as imagens.",
-        Image: "./img/projectimgs/ImagensAleatorias.png",
-        Techs: [
-            {
-                TechName: "HTML",
-                techimg: "./img/icons/html.png"
-            },
-            {
-                TechName: "CSS",
-                techimg: "./img/icons/css.png"
-            },
-            {
-                TechName: "JavaScript",
-                techimg: "./img/icons/js.png"
-            }
-        ],
-        Link: "https://reactbootcamp.com",
-        DemoLink: "",
-        Demo: false
-    },
+    }
 ];
 
 export const ContactsData = [
