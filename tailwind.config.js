@@ -11,9 +11,6 @@ module.exports = {
             fontSize: {
                 sb: '0.95rem'
             },
-            borderWidth: {
-                1: '1px'
-            },
             top: {
                 15: '15px'
             },
