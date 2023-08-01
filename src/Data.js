@@ -50,7 +50,7 @@ export const ProjectsData = [
             },
         ],
         Link: "https://github.com/murilostorari/Portfolio",
-        DemoLink: "https://github.com/murilostorari/Portfolio",
+        DemoLink: "https://murilostorari.vercel.app",
         Demo: true
     },
     {
