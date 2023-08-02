@@ -6,7 +6,7 @@ Meu Portfólio/Site pessoal criado utilizando React e Tailwind CSS. Nesse projet
 
 <br>
 
-![Resultado final do projeto](https://github.com/murilostorari/Portfolio/blob/main/public/img/projectimgs/Portfolio.png?raw=true)
+![Resultado final do projeto](https://github.com/murilostorari/Portfolio/blob/main/public/img/images/Portfolio.png?raw=true)
 
 <br>
 
