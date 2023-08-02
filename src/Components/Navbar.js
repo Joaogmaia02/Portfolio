@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="w-full fixed top-0 left-1 shadow-md shadow-gray-800 z-10">
             <div className="bg-gray-900 items-center justify-between p-6 md:flex">
                 <div className="font-bold text-lg text-white flex items-center cursor-pointer">
-                    <a href="#home"><img className="w-6 ml-2" src="./logo.png" alt="Logo"></img></a>
+                    <a href="#home"><img className="w-6 lg:ml-2 md:ml-1" src="./logo.png" alt="Logo"></img></a>
 
                     <p className="font-medium ml-4">
                         <a href="#home">Murilo Storari</a>
