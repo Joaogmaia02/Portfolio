@@ -37,7 +37,7 @@ export const ProjectsData = [
     {
         Title: "Portfólio com React e Tailwind",
         Description: "Meu Portfólio/Site pessoal criado utilizando React e Tailwind CSS. Nesse projeto, explorei novas tecnologias e adquiri conhecimentos valiosos ao longo do desenvolvimento.",
-        Image: "./img/projectimgs/Portfolio.png",
+        Image: "./img/images/Portfolio.png",
         Techs: [
             {
                 TechName: "React"
@@ -56,7 +56,7 @@ export const ProjectsData = [
     {
         Title: "Site de filmes",
         Description: "Um site de filmes, que utiliza a API do TMDB, que obtém os nomes, descrições e avaliações dos filmes. Contém os filmes mais populares, lançamentos, entre outros filmes do site.",
-        Image: "./img/projectimgs/Filmes.png",
+        Image: "./img/images/Filmes.png",
         Techs: [
             {
                 TechName: "HTML"
@@ -75,7 +75,7 @@ export const ProjectsData = [
     {
         Title: "Sistema de gerenciamento de oficina",
         Description: "Um sistema para gerenciamento de uma oficina mecânica, criado como meu TCC do ensino médio, no qual foi utilizado a linguagem C#, Windows Forms, e o banco de dados Access.",
-        Image: "./img/projectimgs/Oficina.png",
+        Image: "./img/images/Oficina.png",
         Techs: [
             {
                 TechName: "C#"
@@ -98,7 +98,7 @@ export const ContactsData = [
         Name: "WhatsApp",
         ItemText: "(18) 99622-9347",
         Link: "https://wa.me/5518996229347",
-        Image: "./img/icons/message-big.png"
+        Image: "./img/icons/message-circle-big.png"
     },
     {
         Name: "Email",
