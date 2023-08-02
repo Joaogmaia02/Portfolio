@@ -1,5 +1,5 @@
 import React from "react";
-import { ContactsData } from "../data";
+import { ContactsData } from "../Data";
 import { PhoneIcon } from "@heroicons/react/solid";
 
 export default function Contact() {

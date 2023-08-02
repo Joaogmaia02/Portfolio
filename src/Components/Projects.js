@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from "react";
-import { ProjectsData } from "../data";
+import { ProjectsData } from "../Data";
 import { PuzzleIcon } from "@heroicons/react/solid";
 
 export default function Projects() {
