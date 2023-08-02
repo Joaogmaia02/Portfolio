@@ -98,7 +98,7 @@ export const ContactsData = [
         Name: "WhatsApp",
         ItemText: "(18) 99622-9347",
         Link: "https://wa.me/5518996229347",
-        Image: "./img/icons/message-big.png"
+        Image: "./img/icons/message-circle-big.png"
     },
     {
         Name: "Email",
