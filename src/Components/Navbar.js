@@ -12,7 +12,7 @@ export default function Navbar() {
     let [open, setOpen] = useState(false);
 
     return (
-        <div className="w-full fixed top-0 left-1 shadow-md shadow-gray-800 z-100">
+        <div className="w-full fixed top-0 left-1 shadow-md shadow-gray-800 z-10">
             <div className="bg-gray-900 items-center justify-between p-6 md:flex">
                 <div className="font-bold text-lg text-white flex items-center cursor-pointer">
                     <a href="#home"><img className="w-6 ml-2" src="./logo.png" alt="Logo"></img></a>
