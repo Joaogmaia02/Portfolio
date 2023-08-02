@@ -21,7 +21,7 @@ export default function Home() {
                     </div>
                 </div>
 
-                <img className="object-cover object-center rounded-full md:max-w-[50%] sm:max-w-[85%]" alt="hero" src="./perfil.jpg"></img>
+                <img className="object-cover object-center rounded-full md:max-w-[50%] sm:max-w-[85%]" src="./img/perfil.jpg" alt="Murilo"></img>
             </div>
         </section>
     );
