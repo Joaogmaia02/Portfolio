@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Footer() {
     return (
-        <footer className="text-gray-400 bg-gray-800 body-font z-10">
+        <footer className="text-gray-400 bg-stone-925 body-font z-10">
             <div class="items-center justify-between p-6 md:flex">
                 <span class="text-base font-medium ml-4">© 2023 - Murilo Storari</span>
 

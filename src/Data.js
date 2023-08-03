@@ -46,7 +46,7 @@ export const ProjectsData = [
                 TechName: "Tailwind CSS"
             },
             {
-                TechName: "Hero icons"
+                TechName: "Lucide icons"
             },
         ],
         Link: "https://github.com/murilostorari/Portfolio",

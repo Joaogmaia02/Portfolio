@@ -19,7 +19,7 @@ export default function Projects() {
                         <div key={project} className="p-2 lg:w-1/2 md:w-full sm:w-full">
                             <div className="border-gray-800 border rounded-md px-5 pt-4 pb-3">
                                 <h1 className="text-lg font-medium text-center text-white mb-3 hover:text-blue-500 transition-all duration-150 cursor-pointer">
-                                    {project.Demo ? (<a href={project.DemoLink} target="_blank" rel="noopener noreferrer" data-te-toggle="tooltip" title="Demo do projeto">{project.Title}</a>) : (<a href={project.Link} target="_blank" rel="noopener noreferrer" data-te-toggle="tooltip" title="Repositório do projeto">{project.Title}</a>)}
+                                    {project.Demo ? (<a href={project.DemoLink} target="_blank" rel="noopener noreferrer" data-te-toggle="tooltip" title="Demo do projeto">{project.Title}</a>) : (<a href={project.Link} target="_blank" rel="noopener noreferrer" data-te-toggle="tooltip" title="Repositório no GitHub">{project.Title}</a>)}
                                 </h1>
 
                                 <p className="leading-relaxed text-center mb-4">{project.Description}</p>
