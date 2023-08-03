@@ -4,6 +4,12 @@ module.exports = {
         "./src/**/*.{js,jsx,ts,tsx}",
     ],
     theme: {
+        colors: {
+            'stone': {
+                925: '#1a1715',
+            },
+        },
+
         extend: {
             screens: {
                 'mbsc': '200px'
