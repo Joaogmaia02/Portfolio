@@ -4,7 +4,7 @@ import { CodeIcon } from "@heroicons/react/solid";
 
 export default function Skills() {
     return (
-        <section id="skills" className="text-gray-400 bg-gray-900 body-font">
+        <section id="skills">
             <div className="mx-auto pt-10 pb-40">
                 <div className="text-center">
                     <CodeIcon className="inline-block w-10 mb-4" />

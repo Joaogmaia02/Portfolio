@@ -4,7 +4,7 @@ import { PhoneIcon } from "@heroicons/react/solid";
 
 export default function Contact() {
     return (
-        <section id="contact" className="text-gray-400 bg-gray-900 body-font">
+        <section id="contact">
             <div className="max-w-[85%] mx-auto py-4">
                 <div className="text-center">
                     <PhoneIcon className="w-10 inline-block mb-4" />

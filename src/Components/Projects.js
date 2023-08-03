@@ -5,7 +5,7 @@ import { PuzzleIcon } from "@heroicons/react/solid";
 
 export default function Projects() {
     return (
-        <section id="projects" className="text-gray-400 bg-gray-900 body-font">
+        <section id="projects">
             <div className="mx-auto pt-10 pb-40 max-w-[85%]">
                 <div className="text-center">
                     <PuzzleIcon className="inline-block w-10 mb-4" />

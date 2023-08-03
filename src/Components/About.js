@@ -3,7 +3,7 @@ import { UserCircleIcon } from "@heroicons/react/solid";
 
 export default function About() {
     return (
-        <section id="about" className="text-gray-400 bg-gray-900 body-font">
+        <section id="about">
             <div className="mx-auto pt-10 pb-40">
                 <div className="text-center">
                     <UserCircleIcon className="inline-block w-10 mb-4" />
